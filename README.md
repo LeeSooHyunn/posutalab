@@ -1,4 +1,4 @@
-# posutalab
+# Official Repository of Soohyun Lee
 My profile repository
 
 Hello, my name is Soohyun Lee. I am student of Gachon University and I major in software. 
